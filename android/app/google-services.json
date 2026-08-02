@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296983234994",
+    "project_id": "eco-alert-7935c",
+    "storage_bucket": "eco-alert-7935c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296983234994:android:8f6497ada6365c1f98fcab",
+        "android_client_info": {
+          "package_name": "com.ecoalert.eco_alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHyC8miBf7CHgX8XKCGUpuehLkHn0NMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
